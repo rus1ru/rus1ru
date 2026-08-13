@@ -9,7 +9,7 @@ I work across **robotics, embodied AI, computer vision, signal processing, and e
 * 👁️ **[VLM Egocentric Spatial Reasoning](https://github.com/rus1ru/embspatial-benchmark-pipeline)**
   Evaluation pipeline for **Qwen2.5-VL-3B** on EmbSpatial-Bench, studying how compact VLMs reason about **left/right, above/under, and close/far relationships** for assistive-robotics scene understanding.
 
-* 🤖 **[ROS 2 Omni-Directional Mecanum Robot](https://github.com/PankajaBalasooriya/OmniDirectionalRobot-EN2160)**
+* 🤖 **[ROS 2 Omni-Directional Mecanum Robot](https://github.com/rus1ru/omni_directional_ros2_implementation)**
   ROS 2 Jazzy autonomy stack with **Gazebo Harmonic, SLAM Toolbox, Nav2, ros2_control, LiDAR, and holonomic Mecanum navigation**.
 
 * 🧠 **[DFWild — Spatial–Frequency Deepfake Detection](https://github.com/rus1ru/DFWild-Light)**
